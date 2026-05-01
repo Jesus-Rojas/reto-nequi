@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Jesus-Rojas/reto-nequi-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Jesus-Rojas/reto-nequi-frontend
